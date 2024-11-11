@@ -1,5 +1,5 @@
 {
-    "name": "MqttManger",
+    "name": "MqttManager",
     "version": "1.0.0",
     "description": "Wrapper for heman/AsyncMqttClient-esphome@^2.1.0",
     "keywords": "",
