@@ -1,0 +1,20 @@
+{
+    "name": "MqttManger",
+    "version": "1.0.0",
+    "description": "Wrapper for heman/AsyncMqttClient-esphome@^2.1.0",
+    "keywords": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chimeng62/MqttManager.git"
+    },
+    "authors": [
+        {
+            "name": "Chimeng62",
+            "email": "chimeng62@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
