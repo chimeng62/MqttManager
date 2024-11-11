@@ -1,9 +1,7 @@
 #include <Arduino.h>
 #include <WiFiManager.h>
 
-#include "ConfigManager.h"
-#include "MqttManager.h"
-
+#include <MqttManager.h>
 
 WiFiManager wifiManager;
 MqttManager mqttManager;
